@@ -1,0 +1,1 @@
+The countdown timer is written in python without using external libraries
